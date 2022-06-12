@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsTestPeoject", "MarsTestPeoject\MarsTestPeoject.csproj", "{68DC9022-391F-490F-9A8F-82F5EB415247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowMarsAdvanceTask", "SpecflowMarsAdvanceTask\SpecflowMarsAdvanceTask.csproj", "{9C8BF797-0A7B-47E7-8F4C-8ACECD07E331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68DC9022-391F-490F-9A8F-82F5EB415247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DC9022-391F-490F-9A8F-82F5EB415247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DC9022-391F-490F-9A8F-82F5EB415247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DC9022-391F-490F-9A8F-82F5EB415247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8BF797-0A7B-47E7-8F4C-8ACECD07E331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8BF797-0A7B-47E7-8F4C-8ACECD07E331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8BF797-0A7B-47E7-8F4C-8ACECD07E331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8BF797-0A7B-47E7-8F4C-8ACECD07E331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C5F6420-3AD1-43DF-9179-979734AB2C9A}
+	EndGlobalSection
+EndGlobal
